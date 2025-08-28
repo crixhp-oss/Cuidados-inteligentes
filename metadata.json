@@ -1,0 +1,5 @@
+{
+  "name": "Agente inteligente para cuidadores gemini AI studio",
+  "description": "An interactive web application to help caregivers assess their level of strain and burden using standardized questionnaires (Caregiver Strain Index and Zarit Burden Interview). The app provides immediate feedback and recommendations, and visualizes aggregated data to highlight the need for caregiver support.",
+  "requestFramePermissions": []
+}
